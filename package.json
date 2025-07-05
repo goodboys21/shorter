@@ -1,0 +1,14 @@
+{
+  "name": "urlshort-bot-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nanoid": "^4.0.0",
+    "sqlite3": "^5.1.6"
+  }
+}
